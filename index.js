@@ -18,8 +18,6 @@ const themes = {
         white: "#fdfff1",
         yellow: "#e4db73",
     },
-
-
     // Monokai Pro
     pro: {
         black: "#221f22",
@@ -38,9 +36,7 @@ const themes = {
         red: "#ff6188",
         white: "#fcfcfa",
         yellow: "#ffd866",
-        selection: "#fcfcfa80"
     },
-
     // Octagon Filter
     octagon: {
         black: "#1e1f2b",
@@ -60,7 +56,6 @@ const themes = {
         white: "#eaf2f1",
         yellow: "#ffd76d",
     },
-
     // Machine 
     machine: {
         black: "#1d2528",
@@ -80,7 +75,6 @@ const themes = {
         white: "#f2fffc",
         yellow: "#ffed72",
     },
-
     // Ristretto Filter
     ristretto: {
         black: "#211c1c",
@@ -100,7 +94,6 @@ const themes = {
         white: "#fff1f3",
         yellow: "#f9cc6c",
     },
-
     // Spectrum
     spectrum: {
         black: "#211c1c",
@@ -131,7 +124,7 @@ exports.decorateConfig = (config) => {
 
     const backgroundColor = colors.black;
     const foregroundColor = colors.white;
-    const cursorColor = colors.white + "80";
+    const cursorColor = "rgba(248, 248, 248, 0.5)";
     // const backgroundColor = colors.black;
     // const foregroundColor = colors.white;
     // const cursorColor = colors.white;
