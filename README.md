@@ -46,4 +46,6 @@ module.exports = {
 This plugin is a port of color schemes contained in the
 Monokai Pro theme for VSCode. Monokai Pro is a commercial product created by [Wimer Hazenberg](https://github.com/Monokai), whom this project has no affiliation to.
 
+## License
+
 MIT © MozzarellaM
