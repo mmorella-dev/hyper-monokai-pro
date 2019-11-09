@@ -2,14 +2,13 @@
   "name": "hyper-monokai-pro",
   "version": "0.1.0",
   "description": "A theme for Hyper inspired by Monokai Pro",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MozzarellaM/hyper-monokai-pro.git"
-  },
+  "files": [
+    "index.js"
+  ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/MozzarellaM/hyper-monokai-pro.git"
+    },
   "keywords": [
     "hyper",
     "hyper-theme"
