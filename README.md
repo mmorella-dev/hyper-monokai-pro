@@ -1,5 +1,7 @@
 # hyper-theme-monokai-pro
 
+[![npm version](https://badge.fury.io/js/hyper-monokai-pro.svg)](https://www.npmjs.com/package/hyper-monokai-pro)
+
 A theme for [Hyper](hyper.is) inspired by the [Monokai Pro](monokai.pro) color palette.
 
 ## Installation
