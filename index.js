@@ -126,7 +126,7 @@ const themes = {
 
 exports.decorateConfig = (config) => {
 
-    const themeName = config.monokaiPro.theme;
+    const themeName = config.hyperMonokaiPro.theme;
     const colors = themes[themeName] || themes["pro"];
 
     const backgroundColor = colors.black;
