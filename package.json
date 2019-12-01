@@ -1,6 +1,6 @@
 {
   "name": "hyper-monokai-pro",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A theme for Hyper inspired by Monokai Pro",
   "files": [
     "index.js"
