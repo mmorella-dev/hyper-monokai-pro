@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/hyper-monokai-pro.svg)](https://www.npmjs.com/package/hyper-monokai-pro)
 
-A theme for [Hyper](https://hyper.is/) inspired by the [Monokai Pro](https://hyper.is/) color palette.
+A theme for [Hyper](https://github.com/zeit/hyper) inspired by the [Monokai Pro](https://monoka.pro/) color palette.
 
 [![Screenshot of pro theme](https://i.imgur.com/DWwpf2Y.png)](https://imgur.com/a/UEVjTHI)
 
@@ -31,7 +31,7 @@ module.exports = {
     hyperMonokaiPro: {
         /*
          * Available themes:
-         * "classic" || "pro" || "octagon" || "machine" || "ristretto" || "spectrum" 
+         * "pro" || "octagon" || "machine" || "ristretto" || "spectrum" || "classic"
          */
         theme: "octagon"
       },
@@ -43,6 +43,7 @@ module.exports = {
 
 This plugin is a port of color schemes contained in the
 Monokai Pro theme for VSCode. Monokai Pro is a commercial product created by [Wimer Hazenberg](https://github.com/Monokai), whom this project has no affiliation to.
+
 
 ## License
 
