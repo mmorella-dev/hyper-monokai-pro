@@ -4,6 +4,8 @@
 
 A theme for [Hyper](https://hyper.is/) inspired by the [Monokai Pro](https://hyper.is/) color palette.
 
+[![Screenshot of pro theme](https://i.imgur.com/DWwpf2Y.png)](https://imgur.com/a/UEVjTHI)
+
 ## Installation
 
 Add `hyper-monokai-pro` to the plugins list in your ~/.hyper.js config file.
@@ -45,3 +47,12 @@ Monokai Pro theme for VSCode. Monokai Pro is a commercial product created by [Wi
 ## License
 
 MIT © MozzarellaM
+
+## Screenshots
+
+[![Screenshot of octagon theme](https://i.imgur.com/tMNi53p.png)]((https://imgur.com/a/UEVjTHI))
+[![Screenshot of ristretto theme](https://i.imgur.com/vpmVvU6.png)]((https://imgur.com/a/UEVjTHI))
+[![Screenshot of classic theme](https://i.imgur.com/6vSdrKC.png)]((https://imgur.com/a/UEVjTHI))
+[![Screenshot of machine theme](https://i.imgur.com/tcrDUS1.png)]((https://imgur.com/a/UEVjTHI))
+[![Screenshot of spectrum theme](https://i.imgur.com/hGGvgus.png)]((https://imgur.com/a/UEVjTHI))
+[![Screenshot of ristretto theme](https://i.imgur.com/vpmVvU6.png)]((https://imgur.com/a/UEVjTHI))
