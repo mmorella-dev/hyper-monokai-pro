@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/hyper-monokai-pro.svg)](https://www.npmjs.com/package/hyper-monokai-pro)
 
-A theme for [Hyper](hyper.is) inspired by the [Monokai Pro](monokai.pro) color palette.
+A theme for [Hyper](https://hyper.is/) inspired by the [Monokai Pro](https://hyper.is/) color palette.
 
 ## Installation
 
@@ -27,19 +27,13 @@ module.exports = {
   config: {
     /* ... */
     hyperMonokaiPro: {
-        theme: "octagon"
         /*
          * Available themes:
-         *
-         * `pro` – Monokai Pro (default)
-         * `octagon` – Monokai Pro (Filter Octagon)
-         * `machine` – Monokai Pro (Filter Machine)
-         * `ristretto` – Monokai Pro (Filter Machine)
-         * `spectrum` – Monokai Pro (Filter Machine)
-         * `classic` – Monokai Classic
+         * "classic" || "pro" || "octagon" || "machine" || "ristretto" || "spectrum" 
          */
+        theme: "octagon"
+      },
     }
-  }
 }
 ```
 
