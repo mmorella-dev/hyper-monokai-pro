@@ -54,4 +54,3 @@ MIT © MozzarellaM
 [![Screenshot of classic theme](https://i.imgur.com/6vSdrKC.png)]((https://imgur.com/a/UEVjTHI))
 [![Screenshot of machine theme](https://i.imgur.com/tcrDUS1.png)]((https://imgur.com/a/UEVjTHI))
 [![Screenshot of spectrum theme](https://i.imgur.com/hGGvgus.png)]((https://imgur.com/a/UEVjTHI))
-[![Screenshot of ristretto theme](https://i.imgur.com/vpmVvU6.png)]((https://imgur.com/a/UEVjTHI))
