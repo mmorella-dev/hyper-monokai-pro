@@ -42,8 +42,6 @@ module.exports = {
 
 ## Screenshots
 
-![Monokai Pro Theme](/../screenshots/pro.png?raw=true)
-
 ![Monokai Octagon Theme](/../screenshots/octagon.png?raw=true)
 
 ![Monokai Ristretto Theme](/../screenshots/ristretto.png?raw=true)
