@@ -4,7 +4,7 @@
 
 A theme for [Hyper](https://github.com/zeit/hyper) inspired by the [Monokai Pro](https://monokai.pro/) theme for VS Code and Sublime Text.
 
-[![Screenshot of pro theme](https://i.imgur.com/DWwpf2Y.png)](https://imgur.com/a/UEVjTHI)
+![Monokai Pro Theme](/../pro.png?raw=true)
 
 ## Installation
 
