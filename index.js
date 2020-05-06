@@ -53,13 +53,13 @@ exports.decorateConfig = (config) => {
     const backgroundColor = colors[0] || black;
     const foregroundColor = colors[7] || white;
     // Generate other Colors
-    const borderColor = color(backgroundColor).darken(0.1).rgb().string();
-    const cursorColor = color(foregroundColor).fade(0.5).rgb().string();
-    const cursorAccentColor = color(backgroundColor).rgb().string();
-    const selectionColor = color(colors[6]).fade(0.7).rgb().string();
-
     return Object.assign({}, config, {
-        colors, backgroundColor, foregroundColor, 
-        cursorColor, cursorAccentColor, selectionColor, borderColor
+        colors, 
+        backgroundColor, 
+        foregroundColor,
+        cursorColor: color(foregroundColor).fade(0.5).rgb().string(),
+        borderColor: color(backgroundColor).darken(0.1).rgb().string(),
+        selectionColor: color(colors[6]).fade(0.7).rgb().string(),
+        cursorAccentColor = color(backgroundColor).rgb().string(),
     })
 }
