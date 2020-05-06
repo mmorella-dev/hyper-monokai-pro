@@ -42,6 +42,8 @@ module.exports = {
 
 ## Screenshots
 
+<div style="max-width: 500px">
+
 ![Monokai Octagon Theme](/../screenshots/octagon.png?raw=true)
 
 ![Monokai Ristretto Theme](/../screenshots/ristretto.png?raw=true)
@@ -51,6 +53,8 @@ module.exports = {
 ![Monokai Machine Theme](/../screenshots/machine.png?raw=true)
 
 ![Monokai Classic Theme](/../screenshots/classic.png?raw=true)
+
+</div>
 
 ## Credit
 
