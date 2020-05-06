@@ -5,10 +5,10 @@
   "files": [
     "index.js"
   ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MozzarellaM/hyper-monokai-pro.git"
-    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MozzarellaM/hyper-monokai-pro.git"
+  },
   "keywords": [
     "hyper",
     "hyper-theme"
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/MozzarellaM/hyper-monokai-pro/issues"
   },
-  "homepage": "https://github.com/MozzarellaM/hyper-monokai-pro#readme"
+  "homepage": "https://github.com/MozzarellaM/hyper-monokai-pro#readme",
+  "dependencies": {
+    "color": "^3.1.2"
+  }
 }
